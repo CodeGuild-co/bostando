@@ -1,4 +1,9 @@
 function wndwerr() {
 
- console.log("You have absolutely completely failed at everything");
+ window.log("You have absolutely completely failed at everything");
 }
+
+function() {
+    $('.carousel').carousel({interval: 7000});
+}
+
